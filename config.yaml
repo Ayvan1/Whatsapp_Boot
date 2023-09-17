@@ -1,0 +1,26 @@
+ # Name of the file : Config.yaml
+ # Autor:  AT
+ # description: the yaml file allows the user to configure the Boot_Whatsapp. This file contains the following options
+ #  - name_contact : takes the name of the contact on which we would like to send the messages or stickers+
+ #  - msg: for the message that the user want to send
+ #  - sticker : the user gives the position of the sticker and how much should the Boot send this
+ #  - action : the order in which the Boot should preform actions
+
+ # Important:
+ #  when you not desire to fill a block just clean the value  
+ #  when you want to send a  message you muss search at first the name of the contact
+ #  And Finaly Enjoy :-)
+---
+name_contact: my Nummer
+msg:
+  - "I am a boot made by Ayvan"
+  - "My goal ist to disturb Dimi with 50"
+sticker:
+  sticker_id: 4
+  number_of_items: 4
+
+action:
+  - name_contact
+  - msg
+  - sticker
+...
