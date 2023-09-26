@@ -7,9 +7,11 @@ The main functions of this programme are as follows
 When you want to send 50 sticker to a friend that is the perfect solution :)
     
 """
+
 from Boot_Whatsapp import Boot
 import time
 import yaml
+
 def  reader():
     """
     the reader methode reads the yaml config

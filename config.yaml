@@ -11,13 +11,14 @@
  #  when you want to send a  message you muss search at first the name of the contact
  #  And Finaly Enjoy :-)
 ---
-name_contact: my Nummer
+name_contact: Dimi Claustahl
 msg:
   - "I am a boot made by Ayvan"
   - "My goal ist to disturb Dimi with 50"
+  - "my designer had to warn you, but you didn't take it."
 sticker:
   sticker_id: 4
-  number_of_items: 4
+  number_of_items: 30
 
 action:
   - name_contact

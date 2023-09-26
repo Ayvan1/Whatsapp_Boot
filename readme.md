@@ -14,9 +14,8 @@ Das programm ist direkt vom config.yaml Konfigurierbar
 Beispiel
 name_contact: my number
 msg:
-    - "Hi"
-    - "Wie geht es dir"
+    - "Hi mister Dimi"
 sticker:
-    sticker_id: 1
-    number_of_items: 1
+    sticker_id: 2
+    number_of_items: 30
 ```
